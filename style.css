@@ -12,4 +12,4 @@ width: 120px; margin: 0px; padding:40px; }
 #grid{display: grid;
     grid-template-columns: 150px 1fr;  
 }
-#artile{padding-left: 300px;}
+#artile{padding-left: 80px;}
