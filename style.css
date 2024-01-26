@@ -1,0 +1,15 @@
+a{color: red; text-decoration: none;}
+h1{ text-align: center; font-size: 80px;
+    border-bottom: 1px solid blue; margin: 0px; padding: 20px; 
+    }
+    h2{
+        font-size: 30px; 
+        
+    }
+ul{border-right: 1px solid blue;
+width: 120px; margin: 0px; padding:40px; }
+
+#grid{display: grid;
+    grid-template-columns: 150px 1fr;  
+}
+#artile{padding-left: 300px;}
